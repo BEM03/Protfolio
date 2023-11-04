@@ -167,8 +167,8 @@ article h1::after{
 .photo{
   display: block;
   margin-top: 10px;
-  height: 350px;
-  width: 350px;
+  height: 45vw;
+  width: 45vw;
   border-radius: 50%;
   border: 5px solid #4070F4;
   margin: auto;
