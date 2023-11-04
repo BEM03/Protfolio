@@ -136,6 +136,7 @@ font-size: 30px;
 }
 #wave{
   margin-bottom: 0;
+  width: 100vh;
 }
 .sec-2{
   background: white;
