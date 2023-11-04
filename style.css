@@ -49,6 +49,7 @@ nav.sticky .logo a{
 }
 .nav-content .nav-links{
   display: flex;
+  align-items:center;
 }
 .nav-content .nav-links li{
   list-style: none;
