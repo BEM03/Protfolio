@@ -127,14 +127,14 @@ span{
 }
 .h1{
   display: inline-block;
-  font-size:2vw
+  font-size:4vw
 }
 #lol{
   font-family: 'DM Serif Display', serif;
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Lobster', sans-serif;
 color: #4070F4;
-font-size: 3wv;
+font-size: 4.5wv;
 }
 #wave{
   margin-bottom: 0;
